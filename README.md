@@ -1,6 +1,6 @@
 # firebase_flutter
 
-A new Flutter project.
+you'll create a Flutter app that integrates with Firebase. This app will use Firebase Firestore to store and manage a list of songs. You will learn how to initialize Firebase in a Flutter app, perform CRUD operations, and display data in a user-friendly interface.
 
 ## Getting Started
 
