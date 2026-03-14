@@ -6,12 +6,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-        apiKey: "AIzaSyBZnUMWgc_2ZmirrqyQh_GE6XqtxRCswAQ",
-        authDomain: "songlist-fc95c.firebaseapp.com",
-        projectId: "songlist-fc95c",
-        storageBucket: "songlist-fc95c.firebasestorage.app",
-        messagingSenderId: "876102196332",
-        appId: "1:876102196332:web:c724897100c5bdaa844c49"
+        apiKey: "XXXXXXX",
+        authDomain: "songlist-XXXX.firebaseapp.com",
+        projectId: "songlist-XXXX",
+        storageBucket: "songlist-XXXXX.firebasestorage.app",
+        messagingSenderId: "XXXXX",
+        appId: "1:876102196332:web:XXXXX"
     ),
   );
 
